@@ -1,4 +1,4 @@
-# open several site from the desktop in google chrome
+# open several site from any folder into browser 
 
 just copy/paste this script inside the folder that contain the sites that you want to open in google chrome or whatever default browser you use
 ## here is the instructions 
